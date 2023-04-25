@@ -1,4 +1,5 @@
-nclude <stdio.h>
+
+#include <stdio.h>
 
 /**
  *  * main - Prints the alphabet.
